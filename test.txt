@@ -1,3 +1,3 @@
-This is the first line.
-And another line makes two.
-Finally, the last line is three.
+I have to write one line. 
+And another to make two lines. 
+Finally, one more makes three lines.
